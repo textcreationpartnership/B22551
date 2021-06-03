@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Entertainment perform'd at the theatre-royal in Dorset-Garden, at drawing the lottery call'd The wheel of fortune being the speeches addrest to the spectators, as prologues and epilogues.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22551</idno><idno type="EEBO-CITATION">18777084</idno>
+  <idno type="VID">205273</idno>
+  <idno type="EEBO-PROQUEST">2240886626</idno>
+  
+            <idno type="STC">Wing E3137A</idno>
+            <idno type="OCLC">18777084</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1651:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Entertainment perform'd at the theatre-royal in Dorset-Garden, at drawing the lottery call'd The wheel of fortune being the speeches addrest to the spectators, as prologues and epilogues.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205273:1"/>
+            <pb n="1" facs="tcp:205273:1"/>
+            <head>The Entertainment perform'd at the Theatre-Royal in <hi>Dorset-Garden,</hi> at Drawing the <hi>LOTTERY</hi> call'd <hi>The Wheel of Fortune:</hi> Being the Speeches addrest to the Spectators, as Prologues and Epilogues.</head>
+            <stage>
+               <p>During a Symphony of Musick the Curtain rises very slowly, and dis<g ref="char:EOLhyphen"/>covers Two Wheels upon the Stage: Then Two Figures, represent<g ref="char:EOLhyphen"/>ing <hi>Fortuna,</hi> and <hi>Astraea</hi> the Goddess of Justice, descend over each Wheel, in two rich Chariots gilt with Gold.</p>
+            </stage>
+            <sp>
+               <speaker>
+                  <hi>Fortuna</hi> (perform'd by Miss <hi>Porter)</hi>
+               </speaker>
+               <stage>first speaks,</stage>
+               <lg>
+                  <l>VVHere th' equal Cause, and equal Merits, hold</l>
+                  <l>One Common Title to the <hi>Ball of Gold▪</hi>
+                  </l>
+                  <lg>
+                     <l>Shou'd th' interposing Pow'rs of <hi>Destiny</hi>
+                     </l>
+                     <l>To some more Darling Head the <hi>Prize</hi> decree;</l>
+                     <l>Deciding <hi>Fate</hi> wou'd Arbitrary be.</l>
+                  </lg>
+                  <lg>
+                     <l>No; this Decision lies in <hi>FORTƲNE</hi>'s Sphere:</l>
+                     <l>From random <hi>Chance</hi> no partial Judgment fear.</l>
+                     <l>Then, <hi>JOVE,</hi> resign: 'Tis I reign Goddess here.</l>
+                  </lg>
+                  <l>Yes, <hi>JOVE,</hi> stand by; and see my Glory shine:</l>
+                  <l>Look on, and learn to mend Thy Globe by Mine,</l>
+                  <l>Cunning, Cheat, Falshood; every treacherous Ill</l>
+                  <l>That thy degenerate World too vilely fill,</l>
+                  <l>Are here all banish'd. No designing Sham,</l>
+                  <l>But Innocent Chance plays here her Artless Game.</l>
+                  <l>What Joys wou'd thy Reforming Empire feel,</l>
+                  <l>Mov'd but thy <hi>World</hi> as honest as my <hi>Wheel?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:205273:2"/>
+                  <lg>
+                     <l>But stay: Let me look round my Sovereign Sphere:</l>
+                     <l>The Great, the Fair; those dazling Charms appear:</l>
+                     <l>
+                        <hi>Fortune</hi> has found her Eyes to see such Glories here.</l>
+                  </lg>
+                  <l>Yes, give me leave, when this fair Train I find,</l>
+                  <l>To be no more to my own Greatness blind.</l>
+                  <l>To see the Rich, the Gay, the Young, the Old,</l>
+                  <l>All spread their Laps to catch my Show'r of Gold.</l>
+                  <l>
+                     <hi>Fortune</hi> commands all Hearts: I bend each Knee:</l>
+                  <l>The Court of all Mankind's addrest to Me.</l>
+                  <l>
+                     <hi>Fortune</hi> the World's Great All! The Plume of Quality;</l>
+                  <l>The Churchman's Saint, his dear ador'd Plurality.</l>
+                  <l>The best Court-Friend; The Misses only Pleasure;</l>
+                  <l>The Prodigal's Trifle, but the Miser's Treasure.</l>
+                  <l>The Wedlock<hi>-Cupid</hi>'s Shaft; 'Tis Love's Fire-Arms;</l>
+                  <l>The Widow's Beauty; and the Beau's whole Charms.</l>
+                  <l>The Chymist's Patience, and the Gamester's Quarrel;</l>
+                  <l>The Seaman's Pilot, and the Soldier's Lawrel:</l>
+                  <lg>
+                     <l>All <hi>Fortune,</hi> all.—The Lawyer at the Bar,</l>
+                     <l>I am his Morning Study, Evening Pray'r:</l>
+                     <l>The Statesman's <hi>Charles-</hi>his-wain points to my Northern Star.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>All steer to <hi>Fortune:</hi> Mine's the Golden Coast.</l>
+                  <l>But of all Brows that <hi>Fortune</hi>'s Chaplet boast,</l>
+                  <l>The Great <hi>Augusta</hi> (Industry's Renown</l>
+                  <l>And <hi>Europe</hi>'s Pride) shall wear my richest Crown.</l>
+                  <l>All, but the Muses, taste my Generous Hand:</l>
+                  <l>I'm but their Visionary Fairy-Land.</l>
+                  <l>So thin I doal my niggard Favours there;</l>
+                  <l>
+                     <hi>Fortune,</hi> ev'n th' Hope of Fools, and yet poor Wits despair.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Astraea</hi> (perform'd by Miss <hi>Cholk)</hi>
+               </speaker>
+               <stage>speaks,</stage>
+               <lg>
+                  <l>WHEN the bad World of Old too sinful grew,</l>
+                  <l>Frighted to Heav'n the fair <hi>Astraea</hi> flew:</l>
+                  <l>Nor wonder, from that Peaceful Orb, what Pow'r</l>
+                  <l>Has brought me to th' Ungrateful World once more.</l>
+                  <l>I come t'assist a Sister-Goddess Cause.</l>
+                  <l>Nay, a yet more attracting Influence draws:</l>
+                  <pb n="3" facs="tcp:205273:2"/>
+                  <l> I but descend from my own Starry Sphere,</l>
+                  <l>To meet a fairer Constellation here.</l>
+                  <l>You then the Honour'd Guests in these proud Walls,</l>
+                  <l>I come to tell You, when your Service calls;</l>
+                  <l>Here no Deceit the least false Game shall play:</l>
+                  <l>For Sovereign Justice sits to rule the Day.</l>
+                  <l>And as in Battle, when the Hero dies,</l>
+                  <l>Ev'n the lost Dead i'th' Bed of Honour lies.</l>
+                  <l>Here sure th' Unfortunate can never mourn:</l>
+                  <l>Te trifling Venture's so beneath their Scorn.</l>
+                  <l>Nay, and to make the Loser yet more easy;</l>
+                  <l>We bring down Goddesses from Heav'n to please ye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <lg>
+                  <head>Epilogue </head>
+                  <stage>by Astraea.</stage>
+                  <l>WHEN Justice has perform'd her Charge, and stay'd</l>
+                  <l>To see all fairly won, and justly pay'd,</l>
+                  <l>She shall scarce make a longer Tour among ye;</l>
+                  <l>No, Sublunary Mortals, (not to wrong ye)</l>
+                  <lg>
+                     <l>Whilst the World's larger Theatre I see,</l>
+                     <l>So tir'd with those mad Follies I shall be,</l>
+                     <l>That this low'r Globe and I can ne're agree.</l>
+                  </lg>
+                  <l>First, for the lovely Sex—Their Faults I'll spare:</l>
+                  <l>Those Spots in Stars, the Follies of the Fair.</l>
+                  <l>But that strange Sight to see old <hi>Aesop</hi>'s Crow</l>
+                  <l>Once more turn Peacock, that gay Bird, a Beau!</l>
+                  <l>What should I bring my Scales of Justice thither,</l>
+                  <l>Where all I have to weigh is Plume and Feather?</l>
+                  <l>What lame Account must Truth record in Story,</l>
+                  <l>Where Foppery, not Sense, bears all the Glory?</l>
+                  <l>This Ages Panegyrick to endite,</l>
+                  <l>Not Pens of Chronicle, but Lampoon, should write.</l>
+                  <l>And next—</l>
+                  <l>What Quarrels and Dissention rule Mankind?</l>
+                  <l>'Tis true, the World a General Peace may find:</l>
+                  <l>But there's no end of private Fewds and Jars:</l>
+                  <l>The <hi>Parsons</hi> and the <hi>Poets</hi> are at Wars.</l>
+                  <pb n="4" facs="tcp:205273:3"/>
+                  <l> Those in their Pious, these, Poetick, Rage;</l>
+                  <l>These lash the Pulpit, and they damn the Stage.</l>
+                  <l>A third damns both: Thus in one pushing Trial,</l>
+                  <l>
+                     <hi>Wit, Zeal,</hi> and <hi>Wisdom,</hi> fight one Battle-Royal.</l>
+                  <l>These and a hundred Faults too poor to name,</l>
+                  <l>Are the degenerate Ages common Shame.</l>
+                  <l>Thus, blushing at these Faults, shall Justice fly</l>
+                  <l>Back to her Halcyon Regions in the Sky:</l>
+                  <l>Yet in my Room (such gracious Smiles I'll owe ye)</l>
+                  <l>I'll send down Mercy—Justice would undo ye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Fortuna</speaker>
+               <stage>speaks,</stage>
+               <lg>
+                  <l>SHOU'D <hi>Fortune</hi> to all Sides keep open Ears,</l>
+                  <l>T'a thousand Curses and a thousand Prayers;</l>
+                  <l>Tyr'd with that common Din of all Mankind,</l>
+                  <l>Methinks she should be rather Deaf than Blind.</l>
+                  <l>Yet why should any Man repine at Chance?</l>
+                  <l>'Tis all but Frenzy, peevish Ignorance!</l>
+                  <l>You shou'd court <hi>Fortune,</hi> as you pay your Duty</l>
+                  <l>To some Court-Star, some celebrated Beauty.</l>
+                  <l>All gaze with Rival-Eyes; each fond Adorer</l>
+                  <l>Presents his offer'd Heart, and kneels before her.</l>
+                  <l>All may look up, and every longing Eye</l>
+                  <l>May wish and hope: But all can ne're enjoy.—</l>
+                  <l>Wou'd ye all be blest? Fy, Gentlemen, oh fy!</l>
+                  <l>A Woman's but a Woman; her kind Arms,</l>
+                  <l>Her Golden Joys, and all her Melting Charms,</l>
+                  <l>Into so many Show'rs can never fall:</l>
+                  <l>The Devil's in't, if She can please ye All.</l>
+               </lg>
+               <lg>
+                  <l>Expect the same from <hi>Fortune.</hi> My rich Hoard</l>
+                  <l>Of Smiles, is not so infinitely stor'd,</l>
+                  <l>That every One can be the happy Man:</l>
+                  <l>And yet I'll be as kind as e're I can.</l>
+                  <l>My Graces, Smiles, and Favours, I'll bestow</l>
+                  <l>All my whole Stock, as far as e're 'twill go.</l>
+                  <l>And Gentlemen, when, to my utmost Pow'r,</l>
+                  <l>Iv'e given ye all my whole exhausted Store,</l>
+                  <l>You'd be unconscionable to ask me more.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>A. Baldwin,</hi> in <hi>Warwick-lane,</hi> 1698.</p>
+            <pb facs="tcp:205273:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
